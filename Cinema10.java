@@ -29,8 +29,8 @@ public class Cinema10 {
                 
                 int fil = menuController.escolhaDoFilme;
 
-                System.out.println("Descrição:");
-                filme.nomeDoFilmeEscolhido(fil);
+                //System.out.println("Descrição:");
+                filme.descricaoDoFilme(fil, fil);
                 
                 
 
